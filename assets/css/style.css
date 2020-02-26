@@ -1,0 +1,42 @@
+
+#navbar{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+#navbar ul{
+    padding:0px;
+    list-style: none;
+    text-align: right;
+}
+
+#navbar li{
+    display: inline;
+}
+
+#navbar a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 15px;
+    
+}
+
+
+.form-1{
+    padding:20;
+}
+
+.form-1 .f-group{
+    padding-bottom: 15px;
+}
+
+.form-1 label{
+    display: block;
+}
+
+.form-1 input[type="text"], .form-1 textarea{
+    padding: 8px;
+    width: 100%;
+
+}

@@ -1,9 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     background-image: url("/assets/images/gravel.png");
      }
 
    .container{
-    background-color: white;
+
     font-size: initial;
     color: rgb(31, 14, 14);
     padding: 80px;
@@ -129,4 +133,9 @@ p{
     padding: 8px;
     width: 100%;
     height: 100px;
+}
+#pr2{
+    margin-top: 80px;
+    padding: 20px;
+
 }
